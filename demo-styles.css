@@ -24,7 +24,7 @@ model-viewer {
 }
 
 #ar-button {
-  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/main/WEB_ARButton.png);
+  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/WEB_ARButton.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center;
@@ -62,7 +62,7 @@ model-viewer {
 }
 
 #qr-button {
-  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/main/WEB_ARButton.png);
+  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/WEB_ARButton.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center;
@@ -88,7 +88,7 @@ model-viewer {
 }
 
 #qr-button:hover {
-  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/main/qr-compostxxii.png);
+  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/qr-compostxxii.png);
   height: 200px;
   width: 200px;
 }
