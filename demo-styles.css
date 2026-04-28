@@ -24,7 +24,7 @@ model-viewer {
 }
 
 #ar-button {
-  background-image: url(https://cdn.glitch.com/07c05876-4826-4855-8ade-c6c46c2b2820%2FCompostIV_ARButton.png?v=1626107959847);
+  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/main/WEB_ARButton.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center;
@@ -62,7 +62,7 @@ model-viewer {
 }
 
 #qr-button {
-  background-image: url(https://cdn.glitch.com/07c05876-4826-4855-8ade-c6c46c2b2820%2FCompostIV_ARButton.png?v=1626107959847?v=1592493802500);
+  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/main/WEB_ARButton.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center;
@@ -88,7 +88,7 @@ model-viewer {
 }
 
 #qr-button:hover {
-  background-image: url(https://compost-xxii.augmentedcompost.xyz/files/qr-compostxxii.png);
+  background-image: url(https://laumoff.github.io/web_ar_dummy.git.io/main/qr-compostxxii.png);
   height: 200px;
   width: 200px;
 }
